@@ -4,7 +4,9 @@ It's been a long time. This repo was created in 2020. I haven't had time to arch
 
 In 2022, I have a new notebook computer. Recently, I suddenly thought of this old computer and planned to convert it into a desktop computer. So I studied it and got some success.
 
-The boot file in this repo is made with OpenCore 0.8.3. After my test, it can run macOS Big Sur 11.6.8 normally. Because the bluetooth driver on macOS Monterey does not work well, I do not plan to upgrade to macOS Monterey for the time being.
+The boot file in this repo is made with `OpenCore 0.8.3`. After my test, it can run `macOS Big Sur 11.6.8` normally.
+
+> The test version with the support for `macOS Monterey` is pushed in the test branch, it is untested and unstable, you can try it if you want to experience macOS Monterey.
 
 ## Configure BIOS
 
